@@ -7,6 +7,6 @@ public class Main {
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
     public static void main(String[] args) throws IOException{
-        P10757.run(args);
+        P2775.run(args);
     }
 }
